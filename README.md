@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Model
+# About Project
 
 This repository contains the code and analysis for predicting which passengers survived the Titanic shipwreck using the 'train.csv' dataset from the Titanic - Machine Learning from Disaster Kaggle competition. The project is implemented using PySpark on Google Colab.
 
